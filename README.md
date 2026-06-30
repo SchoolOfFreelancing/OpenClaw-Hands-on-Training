@@ -1,6 +1,6 @@
 # OpenClaw Hands-on Training
 
-A hands-on Training covering OpenClaw fundamentals, production deployment, and building a profitable Upwork service around it.
+A hands-on Training covering OpenClaw fundamentals, production deployment, and building a profitable service around it.
 
 ## Prerequisites
 - Linux fundamentals (CLI, SSH, package management)
