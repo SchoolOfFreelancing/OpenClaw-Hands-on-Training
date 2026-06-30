@@ -59,6 +59,10 @@ By the end of this Training, participants will:
 
 - Students who complete this training will get Credential Verification Support from School Of Freelancing.
 
+───────────────────────────────────────────────
+✧(｡•̀ᴗ-)✧ OpenClaw: Stable Release
+───────────────────────────────────────────────
+
 ![OpenClaw](OpenClaw.png)
 
 ## Disclaimer
