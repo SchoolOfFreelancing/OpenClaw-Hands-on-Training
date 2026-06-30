@@ -58,3 +58,10 @@ By the end of this Training, participants will:
 - `/templates` — Upwork gig and proposal templates
 
 - Students who complete this training will get Credential Verification Support from School Of Freelancing.
+
+![OpenClaw](OpenClaw.png)
+
+## Disclaimer
+This repository is intended to provide guidance, documentation, and support resources related to OpenClaw installation. Product names, trademarks, and service names belong to their respective owners.
+
+⭐ If this repository helps you, please consider starring it and sharing it with others.
