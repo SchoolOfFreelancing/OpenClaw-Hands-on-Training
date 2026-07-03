@@ -65,10 +65,10 @@ By the end of this Training, participants will:
 ───────────────────────────────────────────────
 ✧(｡•̀ᴗ-)✧ OpenClaw: Stable Release
 ───────────────────────────────────────────────
-
+OpenClaw.png
 ```
-[Claude-Fable-5](controlui.png)
-![Gateway Dashboard](OpenClaw.png)
+[OpenClaw Dashboard](controlui.png)
+![Claude Fable 5](OpenClaw.png)
 
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to OpenClaw installation. Product names, trademarks, and service names belong to their respective owners.
