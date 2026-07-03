@@ -67,8 +67,8 @@ By the end of this Training, participants will:
 ───────────────────────────────────────────────
 
 ```
-[Claude-Fable-5](Claude-Fable-5.png)
-![Gateway Dashboard](openclawdashboard.png)
+[Claude-Fable-5](controlui.png)
+![Gateway Dashboard](OpenClaw.png)
 
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to OpenClaw installation. Product names, trademarks, and service names belong to their respective owners.
