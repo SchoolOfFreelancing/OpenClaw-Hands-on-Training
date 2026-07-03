@@ -67,7 +67,7 @@ By the end of this Training, participants will:
 ───────────────────────────────────────────────
 
 ```
-[OpenClaw Dashboard](controlui.png)
+[OpenClawDashboard](controlui.png)
 
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to OpenClaw installation. Product names, trademarks, and service names belong to their respective owners.
