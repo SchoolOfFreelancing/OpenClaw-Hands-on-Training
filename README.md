@@ -68,7 +68,6 @@ By the end of this Training, participants will:
 
 ```
 [Claude-Fable-5](Claude-Fable-5.png)
-![OpenClaw](OpenClaw.png)
 ![Gateway Dashboard](openclawdashboard.png)
 
 ## Disclaimer
