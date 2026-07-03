@@ -65,7 +65,7 @@ By the end of this Training, participants will:
 ───────────────────────────────────────────────
 ✧(｡•̀ᴗ-)✧ OpenClaw: Stable Release
 ───────────────────────────────────────────────
-OpenClaw.png
+
 ```
 [OpenClaw Dashboard](controlui.png)
 
