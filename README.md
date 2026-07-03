@@ -68,7 +68,8 @@ By the end of this Training, participants will:
 
 ```
 
-![OpenClaw](OpenClaw.png OpenClawdashboard.png)
+![OpenClaw](OpenClaw.png)
+![Gateway Dashboard](openclawdashboard.png)
 
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to OpenClaw installation. Product names, trademarks, and service names belong to their respective owners.
