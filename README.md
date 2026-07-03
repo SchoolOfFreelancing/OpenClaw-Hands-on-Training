@@ -70,9 +70,6 @@ By the end of this Training, participants will:
 ![OpenClaw Claude-Fable-5](controlui.png)
 ![OpenClaw](OpenClaw.png)
 
-## 🎬 Watch the Video
-![OpenClaw](anthropic.mp4)
-
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to OpenClaw installation. Product names, trademarks, and service names belong to their respective owners.
 
