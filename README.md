@@ -69,6 +69,7 @@ By the end of this Training, participants will:
 ```
 ![OpenClaw Claude-Fable-5](controlui.png)
 ![OpenClaw](OpenClaw.png)
+https://gist.github.com/user-attachments/assets/e03d7b0f-3f0a-4ff8-9d67-3fddfabd0644
 
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to OpenClaw installation. Product names, trademarks, and service names belong to their respective owners.
