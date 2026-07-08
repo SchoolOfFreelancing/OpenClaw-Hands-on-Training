@@ -102,6 +102,56 @@ By the end of this Training, participants will:
 
 - Students who complete this training will get Credential Verification Support from School Of Freelancing.
 
+  ---
+
+## Get Expert Training
+Contact us on [WhatsApp](https://wa.me/8801748973769) or [Telegram](https://t.me/SchoolOfFreelancingTraining) to start OpenClaw Hands-on Training.
+
+---
+
+# FAQs
+
+<details>
+<summary><b>What is OpenClaw?</b></summary>
+OpenClaw is a viral open-source AI assistant that empowers AI models to work as your proactive personal agent. Connect your local files, WhatsApp, Discord, and other applications to automate workflows, streamline productivity, and let AI work for you 24 hours a day, 7 days a week.
+</details>
+
+<details>
+<summary><b>Do I need coding experience to learn OpenClaw?</b></summary>
+
+No. Coding skills are not required. A basic understanding of Linux, the command line, Node.js, VPS hosting, and cloud networking is all you need to successfully learn and deploy OpenClaw.
+</details>
+
+<details>
+<summary><b>How long is the OpenClaw training?</b></summary>
+
+The training includes 20 hours of instructor-led learning delivered over 5 working days. You'll attend 5 sessions, with 4 hours of training per session, combining expert instruction with practical, hands-on exercises.
+</details>
+
+<details>
+<summary><b>What will I be able to do after completing OpenClaw training?</b></summary>
+
+After completing the OpenClaw training, you'll be able to confidently install, configure, secure, and manage OpenClaw on Linux VPS servers. You'll learn how to deploy OpenClaw with Docker, NGINX, SSL, Tailscale, custom domains, and AI model integrations, troubleshoot common issues, and deliver professional OpenClaw setup and support services to clients on freelance platforms.</details>
+
+<details>
+<summary><b>What is Client Acquisition & OpenClaw Service Development?</b></summary>
+
+Client Acquisition & OpenClaw Service Development teaches you how to turn your OpenClaw skills into a freelance business. You'll learn how to identify client needs, create high-value OpenClaw service packages, write winning project proposals, communicate professionally with clients, price your services, and deliver production-ready OpenClaw installation, configuration, troubleshooting, and support services on freelance platforms such as Upwork.
+</details>
+
+<details>
+<summary><b>What is Credential Verification Support?</b></summary>
+
+Credential Verification Support is the service through which School of Freelancing confirms directly to a requesting organization that a named student has successfully completed any of our training and possesses the necessary skills to work with that organization using a specific skill set. This may also include a formal recommendation from School of Freelancing.
+</details>
+
+<details>
+<summary><b>Can I pay in installments to join the OpenClaw training?</b></summary>
+
+No. We do not offer installment payment options. The full training fee must be paid before the training begins.
+</details>
+
+
 # OpenClaw Dashboard
 
 ```
@@ -117,3 +167,11 @@ By the end of this Training, participants will:
 This repository is intended to provide guidance, documentation, and support resources related to OpenClaw installation. Product names, trademarks, and service names belong to their respective owners.
 
 ⭐ If this repository helps you, please consider starring it and sharing it with others.
+
+<div align="center">
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/AnythingLinux?style=social)](https://twitter.com/AnythingLinux)
+
+</div>
+
+<div align="center"> Made with ❤️ in Bangladesh </div>
