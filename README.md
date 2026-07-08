@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SchoolOfFreelancing/Hermes-Agent-Training.git/">OpenClaw Training</a> | <a href="https://github.com/SchoolOfFreelancing/Hermes-Agent-Support.git/">OpenClaw Support</a>
+  <a href="https://github.com/SchoolOfFreelancing/OpenClaw-Hands-on-Training.git">OpenClaw Training</a> | <a href="https://github.com/SchoolOfFreelancing/Odysseus-AI-Setup-Support.git/">OpenClaw Support</a>
 </p>
 
 <p align="center">
