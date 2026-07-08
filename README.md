@@ -1,11 +1,11 @@
 # 🦞 OpenClaw — Personal AI Assistant Training
 
 <p align="center">
-  <img src="openclawlogo.png" alt="OpenClaw — Personal AI Assistant Training" alt="OpenClaw — Personal AI Assistant Training" width="500">
+  <img src="openclawlogo.png" alt="OpenClaw — Personal AI Assistant Training" alt="OpenClaw — Personal AI Assistant Training" width="90%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/SchoolOfFreelancing/Hermes-Agent-Training.git/">OpenClaw AI Assistant Training</a> | <a href="https://github.com/SchoolOfFreelancing/Hermes-Agent-Support.git/">OpenClaw AI Assistant Support</a>
+  <a href="https://github.com/SchoolOfFreelancing/Hermes-Agent-Training.git/">OpenClaw Training</a> | <a href="https://github.com/SchoolOfFreelancing/Hermes-Agent-Support.git/">OpenClaw Support</a>
 </p>
 
 <p align="center">
