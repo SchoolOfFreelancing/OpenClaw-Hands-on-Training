@@ -31,6 +31,14 @@ If you want a personal, single-user assistant that feels local, fast, and always
 
 Supported channels include: WhatsApp, Telegram, Slack, Discord, Google Chat, Signal, iMessage, IRC, Microsoft Teams, Matrix, Feishu, LINE, Mattermost, Nextcloud Talk, Nostr, Synology Chat, Tlon, Twitch, Zalo, Zalo Personal, WeChat, QQ, WebChat.
 
+| | |
+|---|---|
+| **Training Duration** | 20 Hours Total • 5 Working Days |
+| **Schedule** | 5 Sessions • 4 Hours per Session |
+| **Training Format** | Hands-On Instructor-Led Training Online |
+| **Skill Level** | Beginner to Job-Ready |
+| **Freelance Platform** | Upwork Freelance Marketplace |
+
 ## Prerequisite Training Requirements
 - Linux Knowledge (CLI, SSH, package management)
 - Node.js Knowledge
