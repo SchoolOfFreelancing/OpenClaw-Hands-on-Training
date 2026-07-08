@@ -1,3 +1,25 @@
+# 🦞 OpenClaw — Personal AI Assistant Training
+
+<p align="center">
+  <img src="openclawlogo.png" alt="OpenClaw — Personal AI Assistant Training" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/SchoolOfFreelancing/Hermes-Agent-Training.git/">OpenClaw AI Assistant Training</a> | <a href="https://github.com/SchoolOfFreelancing/Hermes-Agent-Support.git/">OpenClaw AI Assistant Support</a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/SchoolOfFreelancingTraining">
+    <img src="https://img.shields.io/badge/Telegram-Get%20Live%20Support-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support">
+  </a>
+
+  <a href="https://wa.me/8801748973769">
+    <img src="https://img.shields.io/badge/WhatsApp-Get%20Live%20Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Support">
+  </a>
+
+   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
+</p>
+
 # OpenClaw Hands-on Training
 
 A hands-on Training covering OpenClaw fundamentals, production deployment, and building a profitable service around it.
