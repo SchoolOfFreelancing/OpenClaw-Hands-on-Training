@@ -25,9 +25,16 @@
 
 A hands-on Training covering OpenClaw fundamentals, production deployment, and building a profitable service around it.
 
+OpenClaw is a personal AI assistant you run on your own devices. It answers you on the channels you already use. It can speak and listen on macOS/iOS/Android, and can render a live Canvas you control. The Gateway is just the control plane — the product is the assistant.
+
+If you want a personal, single-user assistant that feels local, fast, and always-on, this is it.
+
+Supported channels include: WhatsApp, Telegram, Slack, Discord, Google Chat, Signal, iMessage, IRC, Microsoft Teams, Matrix, Feishu, LINE, Mattermost, Nextcloud Talk, Nostr, Synology Chat, Tlon, Twitch, Zalo, Zalo Personal, WeChat, QQ, WebChat.
+
 ## Prerequisite Training Requirements
 - Linux Knowledge (CLI, SSH, package management)
 - Node.js Knowledge
+- An API key from a model provider (Anthropic, OpenAI, Google, etc.)
 - A VPS or cloud account (DigitalOcean/AWS/Linode)
 - Cloud Networking Knowledge (DNS, ports, firewalls)
 - Upwork Verified Account (For Day 5)
