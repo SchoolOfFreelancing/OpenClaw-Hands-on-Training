@@ -27,6 +27,7 @@ A hands-on Training covering OpenClaw fundamentals, production deployment, and b
 
 ## Prerequisite Training Requirements
 - Linux Knowledge (CLI, SSH, package management)
+- Node.js Knowledge
 - A VPS or cloud account (DigitalOcean/AWS/Linode)
 - Cloud Networking Knowledge (DNS, ports, firewalls)
 - Upwork Verified Account (For Day 5)
