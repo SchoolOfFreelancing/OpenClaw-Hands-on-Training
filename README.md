@@ -1,7 +1,7 @@
 # 🦞 OpenClaw — Personal AI Assistant Training
 
 <p align="center">
-  <img src="openclawlogo.png" alt="OpenClaw — Personal AI Assistant Training" width="100%">
+  <img src="openclawlogo.png" alt="OpenClaw — Personal AI Assistant Training" alt="OpenClaw — Personal AI Assistant Training" width="500">
 </p>
 
 <p align="center">
