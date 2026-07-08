@@ -25,13 +25,13 @@
 
 A hands-on Training covering OpenClaw fundamentals, production deployment, and building a profitable service around it.
 
-## Prerequisites
-- Linux fundamentals (CLI, SSH, package management)
-- Basic networking (DNS, ports, firewalls)
+## Prerequisite Training Requirements
+- Linux Knowledge (CLI, SSH, package management)
 - A VPS or cloud account (DigitalOcean/AWS/Linode)
-- Upwork freelancer account (for Day 5)
+- Cloud Networking Knowledge (DNS, ports, firewalls)
+- Upwork Verified Account (For Day 5)
 
-## Schedule
+## Training Schedule
 
 ### Day 1 — OpenClaw Fundamentals
 - What is OpenClaw, architecture overview, core components
